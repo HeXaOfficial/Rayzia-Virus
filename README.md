@@ -23,6 +23,10 @@ E-Mail - hexaofficial@yahoo.com
 
 =============
 
+Virus checked on Windows 7 and Windows 8!
+
+=============
+
 HeXa (c) All rights reserved
 
 
