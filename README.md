@@ -7,6 +7,8 @@
 Rayzia Ransom =============
 =============
 
+• "Ransom" in name is only name. This program is not ransom 
+
 • Move .exe file to desktop.
 
 • Add some photos and .txt files for delete
