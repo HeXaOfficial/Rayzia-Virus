@@ -24,10 +24,16 @@ E-Mail - hexaofficial@yahoo.com
 =============
 
 Virus checked on:
-Windows 10
-Windows 8
-Windows 7
-Windows XP
+
+• Windows 10
+
+• Windows 8
+
+• Windows 7
+
+• Windows Vista
+
+• Windows XP
 
 (on windows xp it's buggy)
 =============
