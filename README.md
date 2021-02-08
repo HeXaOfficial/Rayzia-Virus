@@ -25,17 +25,16 @@ E-Mail - hexaofficial@yahoo.com
 
 Virus checked on:
 
-• Windows 10
+• Windows 10 (works well)
 
-• Windows 8
+• Windows 8 (works well)
 
-• Windows 7
+• Windows 7 (lags)
 
-• Windows Vista
+• Windows Vista (works well)
 
-• Windows XP
+• Windows XP (very buggy, but works)
 
-(on windows xp it's buggy)
 =============
 
 HeXa (c) All rights reserved
