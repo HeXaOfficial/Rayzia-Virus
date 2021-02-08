@@ -23,8 +23,13 @@ E-Mail - hexaofficial@yahoo.com
 
 =============
 
-Virus checked on Windows 7 and Windows 8!
+Virus checked on:
+Windows 10
+Windows 8
+Windows 7
+Windows XP
 
+(on windows xp it's buggy)
 =============
 
 HeXa (c) All rights reserved
