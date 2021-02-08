@@ -17,6 +17,10 @@ Rayzia Ransom =============
 
 • Recover code - "23xcq0278"
 
+• Report bugs in comments or mail me!
+
+E-Mail - hexaofficial@yahoo.com
+
 =============
 
 HeXa (c) All rights reserved
