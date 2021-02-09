@@ -39,6 +39,8 @@ Virus checked on:
 
 • Windows 98 (not work)
 
+• Windows 95 (not work)
+
 =============
 
 HeXa (c) All rights reserved
