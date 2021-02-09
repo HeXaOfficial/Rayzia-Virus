@@ -29,11 +29,13 @@ Virus checked on:
 
 • Windows 8 (works well)
 
-• Windows 7 (lags)
+• Windows 7 (lags, work)
 
 • Windows Vista (works well)
 
 • Windows XP (very buggy, but works)
+
+• Windows ME (not work)
 
 =============
 
