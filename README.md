@@ -25,7 +25,7 @@ E-Mail - hexaofficial@yahoo.com
 
 Virus checked on:
 
-• Windows 10 (works well)
+• Windows 10 (final bluescreen not work, but works)
 
 • Windows 8 (works well)
 
