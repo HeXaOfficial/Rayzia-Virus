@@ -1,11 +1,4 @@
-
----------------------------------------
-== YOU ARE RUNNING THIS AT YOUR OWN RISK ==
----------------------------------------
-
-=============
-Rayzia Ransom =============
-=============
+***YOU RUNNING THIS AT YOUR OWN RISK!***
 
  - Virus is opensource! - Do not send it to anybody!
  - `Ransom` in name is only name. This program is not ransom 
