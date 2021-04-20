@@ -1,6 +1,6 @@
 
 ---------------------------------------
-== YOU RUNNING THIS AT YOUR OWN RISK ==
+== YOU ARE RUNNING THIS AT YOUR OWN RISK ==
 ---------------------------------------
 
 =============
@@ -25,21 +25,21 @@ E-Mail - hexaofficial@yahoo.com
 
 Virus checked on:
 
-• Windows 10 (final bluescreen not work, but works)
+• Windows 10 (final bluescreen doesn't work, but works)
 
 • Windows 8 (works well)
 
-• Windows 7 (lags, work)
+• Windows 7 (lagging but work)
 
 • Windows Vista (works well)
 
 • Windows XP (very buggy, but works)
 
-• Windows ME (not work)
+• Windows ME (doesn't work)
 
-• Windows 98 (not work)
+• Windows 98 (doesn't work)
 
-• Windows 95 (not work)
+• Windows 95 (doesn't work)
 
 =============
 
