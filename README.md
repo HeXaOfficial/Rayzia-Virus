@@ -1,7 +1,6 @@
 ***YOU RUNNING THIS AT YOUR OWN RISK!***
 
  - Virus is opensource! - Do not send it to anybody!
- - `Ransom` in name is only name. This program is not ransom 
  - Add some photos and .txt files for delete
  - Coded in Batch
  - Recover code - `23xcq0278`
