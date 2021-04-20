@@ -7,9 +7,9 @@
 Rayzia Ransom =============
 =============
 
-• "Ransom" in name is only name. This program is not ransom 
+• Virus is opensource! - Do not send it to nobody!
 
-• Move .exe file to desktop.
+• "Ransom" in name is only name. This program is not ransom 
 
 • Add some photos and .txt files for delete
 
@@ -26,24 +26,13 @@ E-Mail - hexaofficial@yahoo.com
 Virus checked on:
 
 • Windows 10 (final bluescreen doesn't work, but works)
-
 • Windows 8 (works well)
-
 • Windows 7 (lagging but work)
-
 • Windows Vista (works well)
-
 • Windows XP (very buggy, but works)
-
 • Windows ME (doesn't work)
-
 • Windows 98 (doesn't work)
-
 • Windows 95 (doesn't work)
-
-=============
-
-HeXa (c) All rights reserved
 
 
 
