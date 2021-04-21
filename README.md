@@ -12,14 +12,14 @@ E-Mail - hexaofficial@yahoo.com
 
 ## Virus checked on:
 
- - Windows 10 (final bluescreen doesn't work, but works) 
- - Windows 8 (works well)
- - Windows 7 (lagging but work)
- - Windows Vista (works well)
- - Windows XP (very buggy, but works)
- - Windows ME (doesn't work)
- - Windows 98 (doesn't work)
- - Windows 95 (doesn't work)
+ - Windows 10 (Work) 
+ - Windows 8 (Work)
+ - Windows 7 (Work)
+ - Windows Vista (Work)
+ - Windows XP (Work)
+ - Windows ME (Doesn't work)
+ - Windows 98 (Doesn't work)
+ - Windows 95 (Doesn't work)
 
 
 
