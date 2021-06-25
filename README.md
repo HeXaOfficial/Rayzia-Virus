@@ -1,25 +1,22 @@
-***YOU RUNNING THIS AT YOUR OWN RISK!***
+## ***YOU'RE RUNNING THIS AT YOUR OWN RISK!***
 
- - Virus is opensource! - Do not send it to anybody!
- - Add some photos and .txt files for delete
+ - Virus is open source! - Do not send it to anybody!
+ - Add some images and .txt files to be deleted
  - Coded in Batch
  - Recover code - `23xcq0278`
- - Report bugs in comments or mail me!
+ - Report bugs in comments or email me!
 
-E-Mail - hexaofficial@yahoo.com
+E-Mail - `hexaofficial@yahoo.com`
 
 =============
 
-## Virus checked on:
+## Virus was checked on:
 
- - Windows 10 (Work) 
- - Windows 8 (Work)
- - Windows 7 (Work)
- - Windows Vista (Work)
- - Windows XP (Work)
+ - Windows 10 (Works) 
+ - Windows 8 (Works)
+ - Windows 7 (Works)
+ - Windows Vista (Works)
+ - Windows XP (Works)
  - Windows ME (Doesn't work)
  - Windows 98 (Doesn't work)
  - Windows 95 (Doesn't work)
-
-
-
