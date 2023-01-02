@@ -6,7 +6,7 @@
  - Recover code - `23xcq0278`
  - Report bugs in comments or email me!
 
-E-Mail - `hexaofficial@yahoo.com`
+E-Mail - `hexa@hexiaq.cf`
 
 =============
 
