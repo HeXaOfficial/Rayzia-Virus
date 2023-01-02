@@ -17,6 +17,4 @@ E-Mail - `hexaofficial@yahoo.com`
  - Windows 7 (Works)
  - Windows Vista (Works)
  - Windows XP (Works)
- - Windows ME (Doesn't work)
- - Windows 98 (Doesn't work)
- - Windows 95 (Doesn't work)
+ - Windows ME and below doesn't work
